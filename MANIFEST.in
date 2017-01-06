@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+include quicklz.c
+include quicklz.h
